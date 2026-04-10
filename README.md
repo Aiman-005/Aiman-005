@@ -28,7 +28,7 @@ I've also served as **Teaching Assistant** for Multivariable Calculus and Applie
 | [Color Hunt Game](https://github.com/Aiman-005/Projects/tree/main/OOP%20Project) | Multi-level GUI color identification game with two modes, sound, and score tracking | Java, Java Swing |
 | [Mock Examination System](https://github.com/Aiman-005/Projects/blob/main/MOCK%20EXAMINATION%20(COAL%20PROJECT%20CODE)) | Fully functional quiz system with login, random question generation, and result analysis | x86 Assembly, MASM, Irvine32 |
 | [Travel Management System](https://github.com/Aiman-005/Projects/tree/main/project) | Console-based travel booking system with dual-role login, flight/hotel booking | C |
-| [Content Creator Management System](#) | Multi-role platform with admin/creator login, content management, and audience analytics | C++ |
+| [Content Creator Management System](#) | Multi-role platform with admin/creator login, content management, and audience analytics | Java |
 
 ---
 
