@@ -1,6 +1,6 @@
 # Hi, I'm Aiman Farooqui 👋
 
-I'm a **4th semester Software Engineering student at FAST-NUCES Karachi**, currently working part-time as a **Junior Product Developer at Core47** (sister company of IDM Pakistan), where I'm building a full-stack application using Lovable and Supabase.
+I'm a **4th semester Software Engineering student at FAST-NUCES Karachi**, currently working part-time as a **Junior Product Developer at Core47** (sister company of IDM Pakistan), where I'm currently building a full-stack application using Lovable and Supabase.
 
 I've also served as **Teaching Assistant** for Multivariable Calculus and Applied Physics at FAST-NUCES.
 
