@@ -1,8 +1,8 @@
 # Hi, I'm Aiman Farooqui 👋
 
-I'm a **Software Engineering student at FAST-NUCES Karachi**, currently working part-time as a **Junior Product Developer at Core47**, where I'm currently building a full-stack application using Lovable and Supabase.
+I'm a **Software Engineering student at FAST-NUCES Karachi**,**EX-Junior Product Developer at Core47**, where I built full-stack SAAS applications using Lovable and Supabase.
 
-I've also served as **Teaching Assistant** for Multivariable Calculus and Applied Physics at FAST-NUCES.
+I also serve as a **Teaching Assistant** at FAST-NUCES, with past and current courses including Calculus and Linear Algebra.
 
 ---
 
@@ -11,6 +11,7 @@ I've also served as **Teaching Assistant** for Multivariable Calculus and Applie
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
